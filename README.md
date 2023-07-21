@@ -1,7 +1,6 @@
 # MEU-PORTFOLIO-DEV-JUNIOR
 
-Olá, me chamo cayo.
-Este repositório surgiu da necessidade de um desenvolvimento pessoal e profissional para a área de Dev. Júnior.
+Olá, me chamo cayo e este repositório surgiu da necessidade de um desenvolvimento pessoal e profissional para a área de Dev. Júnior.
 Aqui estão presentes os códigos de atividades desenvolvidas durante o curso e outras contribuições para avaliações, pessoais, posteriores.
 
 # Sobre-Mim:
