@@ -1,6 +1,4 @@
-# meu-portfolio-dev-junior
-
-# Nome-e-Descrição:
+# MEU-PORTFOLIO-DEV-JUNIOR
 
 Olá, me chamo cayo.
 Este repositório surgiu da necessidade de um desenvolvimento pessoal e profissional para a área de Dev. Júnior.
